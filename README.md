@@ -121,7 +121,7 @@ Open your browser to `http://localhost:3000` and start exploring the house renta
 
 ## 📚 Author
 
-**Sahil Kumar**  
+**Parvesh**  
 *Demo Version - House Rental Portal*  
 *Built with Spring Boot & React*
 
